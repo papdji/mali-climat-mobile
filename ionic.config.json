@@ -1,0 +1,7 @@
+{
+  "name": "Mali Climat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
